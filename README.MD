@@ -12,5 +12,5 @@ O projeto consiste em uma aplicação completa desde o backend, frontend web e m
 
 ### Frontend Mobile da aplicação:
 
-<img src="/images/omnistack10_mobile_0.png" alt="InterfaceWeb">
-<img src="/images/omnistack10_mobile_1.png" alt="InterfaceWeb">
+<img src="/images/omnistack10_mobile_0.png" alt="InterfaceWeb" width="300">
+<img src="/images/omnistack10_mobile_1.png" alt="InterfaceWeb" width="300">
